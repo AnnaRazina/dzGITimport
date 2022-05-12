@@ -2,3 +2,6 @@
 tmp/
 *_old
 *_backup
+# Добейтесь чтобы также были проигнорированы файлы Thumbs.db и .DS_Store.
+Thumbs.db
+.DS_Store
